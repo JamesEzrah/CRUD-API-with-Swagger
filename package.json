@@ -1,0 +1,13 @@
+{
+  "name": "crud-api-starter",
+  "version": "1.0.0",
+  "main": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
